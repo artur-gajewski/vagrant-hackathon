@@ -1,7 +1,7 @@
 Vagrant Hackathon
 =================
 
-*** Prerequisites
+###Prerequisites
 
 In order to get up-to-speed at the hackathon, I strongly suggest you go ahead and install all required software dependancies ahead of time.
 
