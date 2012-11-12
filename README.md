@@ -1,0 +1,4 @@
+vagrant-hackathon
+=================
+
+Vagrant Hackathon
